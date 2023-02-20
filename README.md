@@ -4,6 +4,7 @@ Boutiques d'accessoires (chapeau/casque, lunettes, masques, accessoires d'oreill
 
 /!\ Fonctionne uniquement avec les accessoires achetés dans les zones spéciales du magasin de vêtements, pas via le script esx_clotheshop.
 
+Les points sont placées par rapports aux MLO de GABZ
 
 ## REQUIREMENTS
 
